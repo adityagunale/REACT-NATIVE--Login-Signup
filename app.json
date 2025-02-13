@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "social-media-app",
+    "slug": "social-media-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo1",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/logo1.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "86f685cb-3233-454c-90f3-87131a75de18"
+      }
+    }
+  }
+}
